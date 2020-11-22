@@ -9,3 +9,13 @@ git commit
 
 Esta es la linea Nro 10
 Esta es la linea Nro 11
+
+Procedure prueba de Merge();
+var
+  l_iNN : Integer;
+begin
+   for l_iNN := 1 to 50 do
+      begin
+         showmessage(inttostr(l_iNN));
+      end; 
+end;
