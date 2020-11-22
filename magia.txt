@@ -1,3 +1,7 @@
 Estor parado en el proyecto dos
 Podre tener dos repositorios ????
-a caso esto es magico ????
+
+Esta es la rama master
+Recordar que tengo que hacer el
+git add .
+git commit
