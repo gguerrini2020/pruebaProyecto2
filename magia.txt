@@ -19,3 +19,8 @@ begin
          showmessage(inttostr(l_iNN));
       end; 
 end;
+
+Funcion prueba: boolean;
+begin
+beep;
+end;
